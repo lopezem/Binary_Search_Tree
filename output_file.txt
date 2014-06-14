@@ -1,0 +1,38 @@
+add	 5
+
+2	 1	 2
+
+a	 3
+
+convert	 7
+
+be	 1	 2
+
+result	 6	 7
+
+print	 6
+
+is	 3	 4
+
+integer	 1	 4	 7
+
+an	 1	 4	 7
+
+set	 1	 2
+
+thank	 8
+
+the	 6	 7
+
+to	 1	 2	 5	 7
+
+you	 8
+
+yes	 3	 4
+
+y2	 2	 3	 4	 5
+
+x1	 1	 5
+
+variable	 1	 3
+

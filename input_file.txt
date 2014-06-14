@@ -1,0 +1,9 @@
+set an integer variable x1 to be 2.
+set y2 to be 2.
+yes, y2 is a variable.
+yes, y2 is an integer.
+add y2 to x1.
+print the result.
+convert the result to an integer.
+thank you.
+#
